@@ -9,15 +9,15 @@ I'd recommend you AWS EC2 Instance for this job but of course you can use whatev
 
 ### Setup Steps:
 
-#### 1- You need to clone my repo in your server:
+#### 1- You need to clone my repo into your server:
 ```
 $ git clone https://github.com/Egel3n/SOCKETCHATAPP.C.git
 ```
-#### 2- You need an C compiler like gcc or clang:
+#### 2- You need an C compiler like gcc or clang for this one:
 ```
 $ gcc Server.c -o server 
 ```
-#### 3-After compiling and getting the output file, you need to run server:
+#### 3-After compiling and getting the output file, you need to run the server:
 ```
 $ ./server <PORT>
 example: ./server 8080
