@@ -34,4 +34,4 @@ $ ./client <IpAddresssofYourServer> <PORT> <Username>
 example: ./client 0.0.0.0 8080 Egelen
 ```
 
-##### Now connect your firends up to 10 clients and start chatting.
+##### Now connect your friends up to 10 clients and start chatting.
